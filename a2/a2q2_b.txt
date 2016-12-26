@@ -1,0 +1,6 @@
+Script started on Sat 30 Jan 2016 04:18:33 PM AST
+[?1034hgowan@bluenose:~/csci2132/a2$ grep -E '^un.*ix$' /usr/share/dict/linux.words[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgowan@bluenose:~/csci2132/a2$ grep -E [Kgowan@bluenose:~/csci2132/a2$ grep -E [Kgowan@bluenose:~/csci2132/a2$ grep -E [Kgowan@bluenose:~/csci2132/a2$ grep -E [Kgowan@bluenose:~/csci2132/a2$ grep -E [Kgowan@bluenose:~/csci2132/a2$ grep -E -x '^can.*a$|^can.*c$' /use[Kr/shared[K/dict/lun[K[Kinux.words|grep -x '.\{6\}'|wc -l
+10
+gowan@bluenose:~/csci2132/a2$ exit
+
+Script done on Sat 30 Jan 2016 04:19:45 PM AST

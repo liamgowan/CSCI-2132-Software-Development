@@ -1,0 +1,6 @@
+Script started on Sat 30 Jan 2016 05:02:22 PM AST
+[?1034hgowan@bluenose:~/csci2132/a2$ sort -r -n -k 4 /users/faculty/prof2132/public/authors.txt|head -n 1|cut -f 1,2 -d ' '
+Alex Hopes
+gowan@bluenose:~/csci2132/a2$ exit
+
+Script done on Sat 30 Jan 2016 05:02:29 PM AST

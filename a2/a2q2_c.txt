@@ -1,0 +1,11 @@
+Script started on Sat 30 Jan 2016 04:40:02 PM AST
+[?1034hgowan@bluenose:~/csci2132/a2$ ls /usr/bin | grep '^[a-z]*file[a-z]*$'
+dotlockfile
+file
+nsrfile
+pamfile
+pnmfile
+ppufiles
+gowan@bluenose:~/csci2132/a2$ exit
+
+Script done on Sat 30 Jan 2016 04:40:45 PM AST

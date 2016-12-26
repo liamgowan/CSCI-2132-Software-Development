@@ -1,0 +1,23 @@
+#include <stdio.h>
+
+int main(void){
+  int a=0,b=0,c=0,a2plusb2,max,count=0;
+  scanf("%d",&max);
+  while(max<1){
+    printf("The number you entered was not positive. Please enter another number: )");
+    scanf("%d",&max);
+  }
+  for(c;c<=max;c++){
+    for(b;b<c;b++){
+      for(a;a<b;a++){
+	a2plusb2=(a*a+b*b);
+	if(a2plusb2==c*c)
+	  count++;
+      }
+      a=0;
+    }
+    b=0;
+  }
+  printf("%d\n", count);
+  return 0;
+}

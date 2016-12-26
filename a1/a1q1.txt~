@@ -1,0 +1,5 @@
+B00673126 Liam Gowan Assignment 1 Question 1
+
+When entering text from the keyboard, the end of input can be signalled by
+entering the command ^D (control D), which tells UNIX that it's reached the
+End Of File, which means that no more data can be read from a file or stream.

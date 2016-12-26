@@ -1,0 +1,8 @@
+2. (i) 
+"2ndday" is NOT a legal identifier in the C programming language because 
+identifiers in the C programming language MUST begin with either a letter
+or underscore, not a numeric digit.
+
+(ii)
+printf("All that is gold does not glitter,\n
+        Not those who wander are lost.\n");

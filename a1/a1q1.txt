@@ -1,0 +1,20 @@
+B00673126 Liam Gowan Assignment 1 Question 1
+
+(i)
+When entering text from the keyboard, the end of input can be signalled by
+entering the command ^D (control D), which tells UNIX that it's reached the
+End Of File, which means that no more data can be read from a file or stream.
+
+(ii)
+The permissions of a file can be represented in 9 bits, an octogal number of 3 
+digits, or a 3 digit number where each digit refers to what each of 3 digit sets
+of the octogal number would be in the decimal system. The 3 digit number 666
+is equivalent to 110110110. The first 3 number set refers to the permissions for 
+the owner, the second 3 number set refers to the permissions of a group, and the 
+third 3 number set refers to the permissions of others. In each number set, the 
+first digit is the read value, the second digit is the write value, and the 
+third digit is the execute value. In this case, the execute value is set to false
+for each number set. This means that a user cannot access the files in the directory.
+In order to modify the permissions of csci2132 such that the directory can be accessed,
+"chmod 777 csci2132" must be entered by the user.  
+

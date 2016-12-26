@@ -1,0 +1,7 @@
+Script started on Thu 14 Jan 2016 09:16:52 PM AST
+[?1034hgowan@bluenose:~/csci2132/a1$ ls /usr/bin/*java[1Pjava[C[C[C[C*
+/usr/bin/java  /usr/bin/javac  /usr/bin/javadoc  /usr/bin/javah  /usr/bin/javap
+gowan@bluenose:~/csci2132/a1$ exit
+exit
+
+Script done on Thu 14 Jan 2016 09:17:20 PM AST

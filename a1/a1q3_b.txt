@@ -1,0 +1,9 @@
+Script started on Thu 14 Jan 2016 09:30:08 PM AST
+[?1034hgowan@bluenose:~/csci2132/a1$ ls /usr/bin/{u,n}*{i,x}
+ls: cannot access /usr/bin/u*i: No such file or directory
+/usr/bin/namei	       /usr/bin/newaliases.postfix  /usr/bin/nmtui
+/usr/bin/native2ascii  /usr/bin/nmcli		    /usr/bin/unzipsfx
+gowan@bluenose:~/csci2132/a1$ exit
+exit
+
+Script done on Thu 14 Jan 2016 09:30:31 PM AST

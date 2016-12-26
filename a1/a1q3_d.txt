@@ -1,0 +1,7 @@
+Script started on Thu 14 Jan 2016 09:48:16 PM AST
+[?1034hgowan@bluenose:~/csci2132/a1$ ls /usr/bin/[^a_[K-z]*
+/usr/bin/[  /usr/bin/411toppm
+gowan@bluenose:~/csci2132/a1$ exit
+exit
+
+Script done on Thu 14 Jan 2016 09:48:37 PM AST

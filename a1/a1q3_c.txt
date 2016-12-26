@@ -1,0 +1,7 @@
+Script started on Thu 14 Jan 2016 09:38:58 PM AST
+[?1034hgowan@bluenose:~/csci2132/a1$ ls /usr/bin/a?????
+/usr/bin/alpine  /usr/bin/aspell  /usr/bin/aulast  /usr/bin/auvirt
+gowan@bluenose:~/csci2132/a1$ exit
+exit
+
+Script done on Thu 14 Jan 2016 09:39:13 PM AST

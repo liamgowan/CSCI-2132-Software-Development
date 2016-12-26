@@ -1,0 +1,4 @@
+Assignment 3 Liam Gowan CSCI 2132 B00673126
+1. (ii) A foreground process can be places in the background by first 
+suspending the foreground process using CONTROL-Z, and then using the bg 
+command to move process into background. 

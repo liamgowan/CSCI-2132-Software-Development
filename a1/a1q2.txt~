@@ -1,0 +1,35 @@
+Script started on Thu 14 Jan 2016 03:32:22 PM AST
+[?1034hgowan@bluenose:~/csci2132/a1$ cat > identity
+Liam
+Gowan
+gowan
+lm217922
+B00673126
+gowan@bluenose:~/csci2132/a1$ cat identity
+Liam
+Gowan
+gowan
+lm217922
+B00673126
+gowan@bluenose:~/csci2132/a1$ wc -l identity
+5 identity
+gowan@bluenose:~/csci2132/a1$ wc -c identity
+36 identity
+gowan@bluenose:~/csci2132/a1$ ls id[K[K-l identity
+-rw-r--r--. 1 gowan csugrad 36 Jan 14 15:33 identity
+gowan@bluenose:~/csci2132/a1$ chmod ch[K[K[K[K[K[K[K[Kchmod 444 mo[K[Kidentity
+gowan@bluenose:~/csci2132/a1$ ls[K[Kchmod 444 identity[4Pls -l[C[C[C[C[C[C[C[C[C
+-r--r--r--. 1 gowan csugrad 36 Jan 14 15:33 identity
+gowan@bluenose:~/csci2132/a1$ m[Khead -2 idn[Kentity
+Liam
+Gowan
+gowan@bluenose:~/csci2132/a1$ head -2 identity|>name
+gowan@bluenose:~/csci2132/a1$ cat name
+gowan@bluenose:~/csci2132/a1$ cat namehead -2 identity|>namec>namea>namet>name
+gowan@bluenose:~/csci2132/a1$ cat name
+Liam
+Gowan
+gowan@bluenose:~/csci2132/a1$ exit
+exit
+
+Script done on Thu 14 Jan 2016 03:47:23 PM AST

@@ -1,0 +1,6 @@
+Script started on Tue 16 Feb 2016 01:51:27 PM AST
+[?1034hgowan@bluenose:~/csci2132/a3$ The crr[K[Kurrent time is [1@e[1@c[1@h[1@o[1@ [1@"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C $ ( D a t e ) [1P [1P [1P [1P [1P d a t e ) " 
+The current time is Tue Feb 16 13:54:03 AST 2016
+gowan@bluenose:~/csci2132/a3$ exit
+
+Script done on Tue 16 Feb 2016 01:54:09 PM AST

@@ -1,0 +1,10 @@
+Script started on Sat 30 Jan 2016 03:52:18 PM AST
+[?1034hgowan@bluenose:~/csci2132/a2$ submit lab3[Ksubmit lab3echo $? ./hello.c[6Psubmit lab3[Kgrep -E '^un.x[K*ixS[K$' /usr/share/dict/luni[K[K[Kinux.words
+unfix
+uniprocessorunix
+unix
+unmix
+unprolix
+gowan@bluenose:~/csci2132/a2$ exit
+
+Script done on Sat 30 Jan 2016 03:53:16 PM AST

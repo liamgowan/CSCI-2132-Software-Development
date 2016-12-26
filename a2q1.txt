@@ -1,0 +1,28 @@
+i) The ">" will overwrite the given file with the input, while the ">>" will 
+append the input to the given file. 
+For example, if ex.txt contained the following three lines:
+Hello world!
+It sure is amazing
+What you you can do with UNIX.
+
+And ex2.txt contained the following line:
+Hi World!
+
+And the command: cat ex.txt > ex2.txt
+Was entered, then cat ex2.txt would display only:
+Hello world!
+It sure is amazing
+What you can do with UNIX.
+
+However if the command: cat ex.txt >> ex2.txt 
+was entered (assuming both are still original files), this would be the
+result of cat ex2.txt:
+
+Hello world! It sure is amazing
+What you can do with UNIX.
+Hi World!
+
+ii) The commands "grep" and "/bin/grep" work the same because the shell will
+search through all of the directories stored in available PATH variable. If it
+exists, it will attempt to execute it, and if it does not execute an error 
+message will be displayed.
